@@ -1,0 +1,3 @@
+user-agent: *
+allow: /
+sitemap: https://aslam70128.github.io/Ezino-car-wash/sitemap.xml
